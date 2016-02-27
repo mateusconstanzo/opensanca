@@ -1,0 +1,1 @@
+# opensanca - Processamento distribuído - Python
