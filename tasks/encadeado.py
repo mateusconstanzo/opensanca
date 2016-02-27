@@ -11,5 +11,5 @@ def exemplo():
                 soma.s(32),  # 32+32
     )()
 
-    print "Resultado do chain"
+    print "Resultado do encadeado"
     print result.get()

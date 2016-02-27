@@ -15,5 +15,5 @@ def exemplo():
         print result.successful()
         print result.completed_count()
 
-    print "Resultado do job"
+    print "Resultado do lote"
     print result.get()
